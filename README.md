@@ -1,4 +1,4 @@
-# Unit 2 | Homework Assignment: Automate Your Day Job with Python
+# Financial Analysis | Programming with Python
 
 ## Background
 
