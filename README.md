@@ -1,3 +1,4 @@
 # Financial Analysis | Programming with Python
 
-## PyBank 
+Using the 'budget_data.csv' provided under the 'Resources' Folder.
+
