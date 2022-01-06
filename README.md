@@ -2,9 +2,9 @@
 
 ## Jupyter Lab
 
-This project was created in Jupyter Lab. I read the `budget_data.CSV` file that is provided in our `Resources` Folder. 
+This project was created in Jupyter Lab. I used `budget_data.CSV` file that is provided in our `Resources` Folder as our Dataset.
 
 ### Technology Required
 
-`Python=3.7` was the Language used.
+`Python=3.7`
 
